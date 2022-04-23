@@ -1,4 +1,4 @@
-# Time Series Analysis and Forecast Predictions for COVID-19 Vaccine Administrations
+# Time Series Analysis and Forecast Predictions: COVID-19 Vaccine Administrations
 
 This project aims to investigate the similarities and differences in COVID-19 vaccine roll-outs across 32 countries in the European Union and North America through 
   - time-series decomposition
